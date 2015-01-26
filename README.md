@@ -1,7 +1,5 @@
 # A Blank PhoneGap App
 
-> A blank but fully functional PhoneGap app.
-
 ## Usage
 
 ### PhoneGap CLI
