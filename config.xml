@@ -17,5 +17,5 @@
 
     <content src="index.html" />
 
-    <icon src="icon.png" />
+    <icon src="www/icon.png" />
 </widget>
