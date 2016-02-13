@@ -2,10 +2,6 @@
   "name": "phonegap-template-blank",
   "version": "1.0.0",
   "description": "blank template for phonegap and cordova projects",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/phonegap/phonegap-app-blank.git"
